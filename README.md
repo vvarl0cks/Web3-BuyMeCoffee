@@ -1,5 +1,7 @@
 # Web3-BuyMeCoffee
 
+We start by building a smart contract to accept our tips and keep track of the coffees that were bought. Then we'll take that smart contract and build a web dApp and a mobile app to interact and use our smart contract.
+
 ## Getting Started
 
 Create a project using this example:
